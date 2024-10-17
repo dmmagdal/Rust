@@ -88,7 +88,7 @@ fn main() {
 
     // SHADOWING
 
-    // you can declare a new variable with the same name as a previous 
+    // You can declare a new variable with the same name as a previous 
     // variable. Rustaceans say that the first variable is shadowed by 
     // the second, which means that the second variable is what the 
     // compiler will see when you use the name of the variable. In 
